@@ -43,8 +43,9 @@ A 3D interactive forest environment built with **React** and **Three.js**, demon
 
 ## Demo
 
-![Virtual Forest Screenshot](screenshot.png)  
-*(Add a screenshot of your 3D forest here)*
+![Virtual Forest Screenshot]
+<img width="695" height="768" alt="image" src="https://github.com/user-attachments/assets/ab652974-de61-4ac0-bee9-ea43f0a27e98" />
+
 
 ---
 
