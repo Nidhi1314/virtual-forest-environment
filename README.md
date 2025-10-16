@@ -4,6 +4,10 @@ A 3D interactive forest environment built with **React** and **Three.js**, demon
 
 ---
 
+
+https://github.com/user-attachments/assets/f55ab55a-7d1a-4771-b75d-3c77567640e2
+
+
 ## Features
 
 - **3D Scene Elements**
