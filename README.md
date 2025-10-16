@@ -1,0 +1,57 @@
+# Virtual Forest Environment
+
+A 3D interactive forest environment built with **React** and **Three.js**, demonstrating computer graphics concepts including 3D geometry, lighting, shadows, materials, and animation.
+
+---
+
+## Features
+
+- **3D Scene Elements**
+  - Trees with trunks and layered foliage.
+  - Rocks with random positions and orientations.
+  - Grass patches with subtle movement.
+  - Small pond.
+
+- **Lighting**
+  - Ambient Light
+  - Directional Light with shadows
+  - Hemisphere Light
+
+- **Shadows**
+  - Dynamic soft shadows using `PCFSoftShadowMap`.
+
+- **Materials**
+  - Physically-based rendering (PBR) materials with roughness and metalness.
+  - Procedural ground height variation.
+
+- **Camera Controls**
+  - Auto-rotation of the camera.
+  - WASD for movement, QE for camera height.
+  - Mouse drag to rotate camera view.
+  - Scroll to zoom in/out.
+  - Spacebar to toggle auto-rotate.
+
+- **Visual Effects**
+  - Fog for atmospheric depth.
+  - Grass blades animated for realism.
+
+- **Responsive Design**
+  - Fullscreen 3D canvas.
+  - Control instructions and graphics concepts panel.
+
+---
+
+## Demo
+
+![Virtual Forest Screenshot](screenshot.png)  
+*(Add a screenshot of your 3D forest here)*
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Nidhi1314/virtual-forest-environment.git
+cd virtual-forest
